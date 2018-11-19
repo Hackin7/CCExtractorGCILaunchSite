@@ -1,0 +1,5 @@
+current directory: /home/hacker/Documents/GitHub/CCExtractorGCILaunchSite/vendor/bundle/ruby/2.5.0/gems/commonmarker-0.17.13/ext/commonmarker
+/usr/bin/ruby2.5 -r ./siteconf20181119-26131-12txh7q.rb extconf.rb
+mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+
+extconf failed, exit code 1
