@@ -5,6 +5,16 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 highlighter: rouge
 
+# Themes are encouraged to use these universal variables
+# so be sure to set them if your theme uses them.
+#
+author :
+  name : -
+  email : -
+  github : -
+  twitter : -
+  feedburner : -s
+
 # Site settings
 title: CCExtractor
 email: contactus@ccextractor.org
