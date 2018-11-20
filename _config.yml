@@ -5,22 +5,17 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 highlighter: rouge
 
-# Themes are encouraged to use these universal variables
-# so be sure to set them if your theme uses them.
-#
-title : simple site
-author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
-  feedburner : nil
+title: CCExtractor
+email: contactus@ccextractor.org
+description: > # this means to ignore newlines until "baseurl:"
+    CCExtractor Development is an informal (meaning we're not incorporated anywhere) organization that exists to coordinate the development efforts of the volunteers that contribute to the   software and to manage our participation in specific events such as Google Summer of Code and Code-In.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ccextractor.github.io" # the base hostname & protocol for your site
+twitter_username: ccextractordev
+github_username:  CCExtractor
+donate: "http://sourceforge.net/donate/index.php?group_id=190832"
 
-# NOTE: Replacing this next line with your own URL
-production_url : https://kbroman.github.io/simple_site
-
-# Tell Github to use the kramdown markdown interpreter
-# (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
+# Build settings
 markdown: kramdown
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
