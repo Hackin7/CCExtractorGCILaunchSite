@@ -8,23 +8,13 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
+title : CCExtractor
 author :
-  name : -
-  email : -
-  github : -
-  twitter : -
-  feedburner : -s
-
-# Site settings
-title: CCExtractor
-email: contactus@ccextractor.org
-description: > # this means to ignore newlines until "baseurl:"
-    CCExtractor Development is an informal (meaning we're not incorporated anywhere) organization that exists to coordinate the development efforts of the volunteers that contribute to the   software and to manage our participation in specific events such as Google Summer of Code and Code-In.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ccextractor.github.io" # the base hostname & protocol for your site
-twitter_username: ccextractordev
-github_username:  CCExtractor
-donate: "http://sourceforge.net/donate/index.php?group_id=190832"
+  name : CCExtractor
+  email : contactus@ccextractor.org
+  github : CCExtractor
+  twitter : ccextractordev
+  feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://kbroman.github.io/simple_site
