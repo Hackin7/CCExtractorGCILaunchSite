@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+published: true
 title: GCI2018
 permalink: /gci2018/
 ---

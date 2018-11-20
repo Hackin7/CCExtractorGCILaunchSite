@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: default
+published: true
 title: Downloads
 permalink: /downloads/
 ---
